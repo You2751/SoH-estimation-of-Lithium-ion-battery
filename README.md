@@ -1,6 +1,5 @@
 # SOH Estimation of Lithium-ion Battery
 
-[Battery]([https://example.com/battery_image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fquartzcomponents.com%2Fproducts%2F2600mah-3c&psig=AOvVaw1gKEUL1uZcusjO-1tnhZm9&ust=1708258978401000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjzot-usoQDFQAAAAAdAAAAABAE))
 ## Overview
 
 This repository contains the code and resources for predicting the State of Health (SOH) of Lithium-ion batteries. The project utilizes regression techniques and Long Short-Term Memory (LSTM) modeling to provide accurate SOH estimates, facilitating effective battery health monitoring.
