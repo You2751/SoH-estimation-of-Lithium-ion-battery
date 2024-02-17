@@ -1,14 +1,12 @@
 # SOH Estimation of Lithium-ion Battery
 
-![Battery]([battery_image.jpg](https://www.canadianbatteries.com/290120-thickbox_default/37v-li-ion-5200mah-battery-fits-tp-link-tl-tr860-1924wh.jpg))
-
+[Battery]([https://example.com/battery_image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fquartzcomponents.com%2Fproducts%2F2600mah-3c&psig=AOvVaw1gKEUL1uZcusjO-1tnhZm9&ust=1708258978401000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjzot-usoQDFQAAAAAdAAAAABAE))
 ## Overview
 
 This repository contains the code and resources for predicting the State of Health (SOH) of Lithium-ion batteries. The project utilizes regression techniques and Long Short-Term Memory (LSTM) modeling to provide accurate SOH estimates, facilitating effective battery health monitoring.
 
 ## Key Features
 
-- **Regression Modeling:** Initial SOH prediction using regression techniques.
 - **LSTM Modeling:** Advanced time-series analysis for SOH prediction using LSTM neural networks.
 - **Dataset:** The dataset includes key parameters such as terminal voltage, terminal current, temperature, charge current, charge voltage, time, capacity, cycle, and SOH.
 
@@ -16,7 +14,7 @@ This repository contains the code and resources for predicting the State of Heal
 
 Before running the project, ensure you have the following dependencies installed:
 
-- Python 3.x
+- Python 3
 - NumPy
 - Pandas
 - Matplotlib
