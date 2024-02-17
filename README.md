@@ -1,6 +1,6 @@
 # SOH Estimation of Lithium-ion Battery
 
-![Battery](battery_image.jpg)
+![Battery]([battery_image.jpg](https://www.canadianbatteries.com/290120-thickbox_default/37v-li-ion-5200mah-battery-fits-tp-link-tl-tr860-1924wh.jpg))
 
 ## Overview
 
